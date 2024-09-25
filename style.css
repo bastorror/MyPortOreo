@@ -232,22 +232,149 @@ span{
 }
 
 @keyframes words{
-  0%, 20%{
+  /* Web Developer*/
+  0%{
+    content: "W";
+  }
+  0.5%{
+    content: "We";
+  }
+  1%{
+    content: "Web";
+  }
+  1.5%{
+    content: "Web";
+  }
+  2%{
+    content: "Web ";
+  }
+  2.5%{
+    content: "Web D";
+  }
+  3%{
+    content: "Web De";
+  }
+  3.5%{
+    content: "Web Dev";
+  }
+  4%{
+    content: "Web Deve";
+  }
+  4.5%{
+    content: "Web Devel";
+  }
+  5%{
+    content: "Web Develo";
+  }
+  5.5%{
+    content: "Web Develop";
+  }
+  6%{
+    content: "Web Develope";
+  }
+  6.5%{
     content: "Web Developer";
   }
-  21%, 40%{
+
+  6.5%, 33%{
+    content: "Web Developer"
+  }
+
+  /* Software Developer*/
+  33.5%{
+    content: "S";
+  }
+  34%{
+    content: "So";
+  }
+  34.5%{
+    content: "Sof";
+  }
+  35%{
+    content: "Soft";
+  }
+  35.5%{
+    content: "Softw";
+  }
+  36%{
+    content: "Softwa";
+  }
+  36.5%{
+    content: "Softwar";
+  }
+  37%{
+    content: "Software";
+  }
+  37.5%{
+    content: "Software D";
+  }
+  38%{
+    content: "Software De";
+  }
+  38.5%{
+    content: "Software Dev";
+  }
+  39%{
+    content: "Software Deve";
+  }
+  39.5%{
+    content: "Software Devel";
+  }
+  40%{
+    content: "Software Develo";
+  }
+  40.5%{
+    content: "Software Develop";
+  }
+  41%{
+    content: "Software Develope";
+  }
+  41.5%{
     content: "Software Developer";
   }
-  41%, 60%{
-    content: "Web Designer";
+  41.5%, 65.5%{
+    content: "Software Developer";
   }
 
-  61%, 80%{
+  /* Game Developer */
+  66%{
+    content: "G";
+  }
+  66.5%{
+    content: "Ga";
+  }
+  67%{
+    content: "Gam";
+  }
+  67.5%{
+    content: "Game";
+  }
+  68%{
+    content: "Game D";
+  }
+  68.5%{
+    content: "Game De";
+  }
+  69%{
+    content: "Game Dev";
+  }
+  69.5%{
+    content: "Game Deve";
+  }
+  70%{
+    content: "Game Devel";
+  }
+  70.5%{
+    content: "Game Develo";
+  }
+  71%{
+    content: "Game Develop";
+  }
+  71.5%{
+    content: "Game Develope";
+  }
+  72%, 100%{
     content: "Game Developer";
-  }
-
-  81%, 100%{
-    content: "Full-Stack Developer";
   }
 
 }
